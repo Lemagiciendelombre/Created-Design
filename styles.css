@@ -16,11 +16,12 @@ body {
     width: 160;
 }
 .sous-menu {
-    background-color: antiquewhite;
-    border: dotted black; 
-    margin: 10px;
+    background-color: antiquewhite; 
+    margin-left: 0px;
     margin-top: 0px;
-    padding-right: 5px;
+    padding-right: 0px;
+    width: 50px;
+    margin: 20px;
    
 }
 .sous-menu a {
@@ -52,9 +53,12 @@ body {
     background-color: antiquewhite;
 }
 #menu1 {
-    border: double black;
+    border: dotted black;
     width: 100px;
     margin-left: 25px;
     text-align: center;
-    margin-top: 5px;
+    margin-top: 0px;
+}
+.put {
+    margin-top: 3px;
 }
